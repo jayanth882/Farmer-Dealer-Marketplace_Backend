@@ -31,3 +31,34 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# MySQL / Database files
+mysql-data-backup/
+*.sock
+*.log
+*.index
+ib_buffer_pool
+
+# Logs
+app-logs.txt
+
+# Temp / build
+war_extract/
+target/
+
+
+# MySQL / Database files
+mysql-data-backup/
+*.sock
+*.log
+*.index
+ib_buffer_pool
+
+# Logs
+app-logs.txt
+
+# Build / temp
+war_extract/
+target/
+
+
